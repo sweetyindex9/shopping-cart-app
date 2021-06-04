@@ -5,6 +5,7 @@ export class Payment extends Component {
         return (
             <div>
                 <h2 style={{textAlign: "center"}}>Payment Component</h2>
+                <h4 style={{textAlign: "center"}}>Thanks For shopping</h4>
             </div>
         )
     }
